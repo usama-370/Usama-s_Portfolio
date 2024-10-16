@@ -12,3 +12,9 @@ I developed an Employee Onboarding Form using Power Apps to streamline the onboa
 - **Benefits:** Enhances efficiency, minimizes errors, and integrates with existing databases.
 
 This solution significantly improves the onboarding process by saving time and reducing manual tasks for HR and managers.
+
+<div align="center">
+    <img src="https://github.com/usama-370/Usama-s_Portfolio/blob/main/Employee%20Onboarding.PNG" alt="Employee Onboarding Form" />
+</div>
+
+
